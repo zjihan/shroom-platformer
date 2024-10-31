@@ -1,0 +1,37 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAIAIAAAAAAAASAgAAAAAAICICAAAAAAAiItLd3d0NIBIhEvHd390gIiES/9393SAhItLd3f3dICIi0t3d/d0gIiIS8d393SASIhL/3d/dACIS0t3d3Q0AICICAOAAAAAAIgIADgAAAAAgAgAOAAAAAAAAwAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "SpaceShip"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwMwAAADAzMy8uwAAzLy7u7uqAMC8u6qqqqoAwLuqOjPz/wDAu6uqMzMzAAC8u6uqqqoAALy7u7u7qwAAAMzMu7u7AAAAAADAzLsAAAAAAADAzAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Cuccoon"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAAAAAAAQAAAAAAAAABAAAAAAAAABEAAAAAAAAAEAEAqgAAAAAAEaqqAAAAAACqOqoAAAAAACoyMwAAAAAAOjP/AAAAAAA6M/8AAAAAADoz/wAAAAAAKjKqAAAAAACqqqoAAAAAABGqqgAAAAAQAQCqAAAAABEAAAAAAAAAAQAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Flying Creature"
+    },
+    "image4": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAsLu7uwAAAACrqqqqCwAAsKqqqqq6AACwqq2qqroAALDaqqqqugAAAKuqqqoLAAAAsLu7uwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage"
+    },
+    "image5": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage0"
+    },
+    "image6": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAACACAAAAAAAAEgIAAAAAAAAiAgAAAAAAICLS3d0NAAAiIRLf390AACIh8t/93QAAEiLS3f3dAAAiItLd/d0AACIiEt/93QAAIiLy39/dAAAgEtLd3Q0AAAAiAgAOAAAAACIC4AAAAAAAIALgAAAAAAAAAAwAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "jump hero"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
